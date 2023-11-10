@@ -5,6 +5,18 @@
 Atividade de Qualidade e Testes de Software sobre Testes Automatizados, na qual deve-se desenvolver uma documentação para a calculadora e seus testes desenvolvidos anteriormente, utilizando a linguagem de programação Java e o framework JUnit 5.
 Além disso, será mostrado o arquivo Javadoc tanto da classe calculadora, quanto da classe de testes JUnit.
 
+## Javadoc
+
+Foi feito um arquivo `javadoc` tanto da classe calculadora, quanto da classe de testes JUnit, veja a seguir uma breve imagem do conteúdo do javadoc, para mais detalhes, basta fazer o download do arquivo `.html` presente no repositório.
+
+**Javadoc (Classe Calculadora):**
+
+![Javadoc Classe Calculadora](javadocalculadora.png)
+
+**Javadoc (Classe Testes JUnit):**
+
+![Javadoc Classe Testes JUnit](javadocjunit.png)
+
 ## Efetuando os Testes Automatizados
 
 Utilizando o framework JUnit 5, criado especificamente para a execução de Testes em aplicações Java, é possível executar os testes da seguinte forma:
