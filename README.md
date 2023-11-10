@@ -15,6 +15,8 @@ Utilizando o framework JUnit 5, criado especificamente para a execução de Test
 
 **3°:** Por fim, basta colocar o cursor em cima da opção `Run As` e logo em seguida clicar com o botão esquerdo do mouse em cima da opção `JUnit Test`, executando assim o teste da aplicação utilizando o JUnit.
 
+![Executar JUnit](executarjunit.png)
+
 Após seguir todos os passos, o JUnit abrirá um console próprio, onde exibirá todas as falhas ou erros, caso houver. Portanto, certifique-se de que a aplicação não apresentou nenhum erro e rodou com êxito.
 
 ## Utilizando a Calculadora
@@ -25,3 +27,5 @@ A calculadora possui a capacidade de efetuar as quatro operações matemáticas 
 - Substração
 - Multiplicação
 - Divisão
+
+![Calculadora](calculadora.PNG)
