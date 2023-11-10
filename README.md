@@ -41,3 +41,5 @@ A calculadora possui a capacidade de efetuar as quatro operações matemáticas 
 - Divisão
 
 ![Calculadora](calculadora.PNG)
+
+## Última atualização: 10/11/2023
