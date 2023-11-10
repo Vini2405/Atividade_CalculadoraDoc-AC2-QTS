@@ -3,6 +3,7 @@
 ## Descrição
 
 Atividade de Qualidade e Testes de Software sobre Testes Automatizados, na qual deve-se desenvolver uma documentação para a calculadora e seus testes desenvolvidos anteriormente, utilizando a linguagem de programação Java e o framework JUnit 5.
+Além disso, será mostrado o arquivo Javadoc tanto da classe calculadora, quanto da classe de testes JUnit.
 
 ## Efetuando os Testes Automatizados
 
